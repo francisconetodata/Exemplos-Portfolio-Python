@@ -1,2 +1,3 @@
-# exemplos-jupyter-blog
-scripts do medium
+# Exemplos de portfólio para o meu blog no medium
+
+link: https://medium.com/@francisconetodata 
